@@ -8,7 +8,11 @@
 - 6주차
   - [김수환, 오형석, 김동하](https://github.com/LandvibeDev/2023-Toby-Spring/issues/4)
   - [이승철, 이세원, 권용현](https://github.com/LandvibeDev/2023-Toby-Spring/issues/5)
-  - [임주민, 양재승, 박준영](https://github.com/LandvibeDev/2023-Toby-Spring/issues/6)  
+  - [임주민, 양재승, 박준영](https://github.com/LandvibeDev/2023-Toby-Spring/issues/6)
+- 7주차
+  - [임주민, 오형석, 이승철](https://github.com/LandvibeDev/2023-Toby-Spring/issues/7)
+  - [이세원, 김동하, 박준영](https://github.com/LandvibeDev/2023-Toby-Spring/issues/8)
+  - [양재승, 김수환, 권용현](https://github.com/LandvibeDev/2023-Toby-Spring/issues/9)    
 
 ## 커리큘럼
 - 5주차
